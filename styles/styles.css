@@ -1,0 +1,100 @@
+.body
+{
+  background-color: #00303f;
+}
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Euphoria Script', cursive;
+font-family: 'Redressed', cursive;
+font-family: 'Roboto Slab', serif;
+font-family: 'Texturina', serif;
+
+*/
+
+.mainheading
+{
+  font-family: 'Redressed', cursive;
+
+  color: red;
+
+}
+
+.subheading
+{
+  font-family: 'Dancing Script', cursive;
+  color:green;
+}
+
+.formenu
+{
+  font-family: 'Redressed', cursive;
+  color:red;
+}
+
+.box1
+{
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin: auto;
+
+}
+.box2
+{
+  width: 400px;
+  height: 200px;
+  position: relative;
+  left:425px;
+  bottom:180px;
+}
+
+.imageposition
+{
+    position:absolute;
+    bottom:329px;
+    left:425px;
+    width:190px;
+}
+
+.Menu
+{
+  height: auto;
+  width:400px;
+  }
+.menupositionaboutme
+{
+  text-align: justify;
+height: auto;
+width: 300px;
+  bottom:300px;
+  position:relative;
+}
+.paragraph
+{
+  font-family: 'Texturina', serif;
+  color: #f8f1f1;
+}
+.paragraph1
+{
+  font-family: 'Roboto Slab', serif;
+  color: #ffd369;
+}
+.menupositioneducation
+{
+  text-align: justify;
+height: auto;
+width: 300px;
+left: 350px;
+  bottom:400px;
+  position:relative;
+}
+
+.menupositionhobbies
+{
+
+    text-align: justify;
+  height: auto;
+  width: 300px;
+  left: 650px;
+  bottom: 600px;
+        position:relative;
+}
